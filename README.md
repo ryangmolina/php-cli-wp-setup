@@ -1,0 +1,1 @@
+# php-cli-wp-setup
