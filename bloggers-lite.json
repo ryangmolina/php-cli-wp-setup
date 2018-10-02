@@ -1,0 +1,9 @@
+{
+	"background_color": "eeee22",
+	"blog_page_layout": "left-sidebar",
+	"enable_breadcrumbs": "1",
+	"enable_categories": "true",
+	"blog_content_read_more_text": "Read more",
+	"blog_content_length": "80",
+	"enable_tags_blog": "true"
+}

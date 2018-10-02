@@ -1,0 +1,33 @@
+[
+	{
+		"post_title": "A sample post",
+		"post_content": "A sample post content",
+		"post_content_filtered": "",
+		"post_excerpt": "A sample post post_excerpt",
+		"post_status": "publish",
+		"post_type": "post",
+		"post_author": "",
+		"post_date_gmt": "",
+		"post_category": [
+			"Featured",
+			"Php"
+		],
+		"tags_input": [
+			"News",
+			"Bitcoin",
+			"Ethereum"
+		]
+	},
+	{
+		"post_title": "A sample page",
+		"post_content": "A sample page content",
+		"post_content_filtered": "",
+		"post_excerpt": "A sample page except",
+		"post_status": "publish",
+		"post_type": "page",
+		"post_author": "",
+		"post_date_gmt": "",
+		"post_category": [],
+		"tags_input": []
+	}
+]

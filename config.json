@@ -1,0 +1,29 @@
+{
+    "db": {
+        "name": "test-wpcli",
+        "user": "root",
+        "pass": ""
+    },
+    "site": {
+    	"title": "Sample site",
+    	"description": "Sample description",
+    	"url": "localhost/testwp"
+    },
+    "option": {
+    	"home_url": "localhost/testwp",
+    	"site_url": "localhost/testwp"
+    },
+    "admin": {
+    	"user": "admin",
+    	"pass": "root",
+    	"email": "admin@example.com"
+    },
+    "themes": [
+    	"primo-lite",
+    	"bloggers-lite"
+    ],
+    "plugins": [
+    	"hello-dolly-for-your-song",
+    	"hello-dolly"
+    ]
+}
